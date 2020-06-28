@@ -25,12 +25,14 @@ $ wakatime -t or wakatime -today
 
 Display WakaTime data from yesterday:
 ```shell
-$ wakatime -y or $ wakatime -yesterday
+$ wakatime -y # or
+$ wakatime -yesterday
 ```
 
 Display WakaTime data from the last 7 days:
 ```shell
-$ wakatime -w or $ wakatime -week
+$ wakatime -w # or
+$ wakatime -week
 ```
 
 ### Info
